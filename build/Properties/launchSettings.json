@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "_build": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "BUILD_ARTIFACTSTAGINGDIRECTORY": "\"D:\\Mariusz\\Repos\\Blazor.Storage-Test\"",
+        "FeedUser": "TEST",
+        "FeedSecret": "TEST",
+        "FeedUrl": "TEST"
+      }
+    }
+  }
+}
